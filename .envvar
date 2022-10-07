@@ -1,0 +1,15 @@
+#! /usr/bin/env bash
+
+# Twilio SMS API
+export TWILIOACCSID="__INSERT_VALUE__"
+export TWILIOAUTHTOKEN="__INSERT_VALUE__"
+export FROMNUMBER="__INSERT_VALUE__"
+export TONUMBER="__INSERT_VALUE__"
+
+# Alphavantage Stock API
+export AVAPI="__INSERT_VALUE__"
+
+# News API
+export NEWSAPI="__INSERT_VALUE__"
+
+echo "Successfully Loaded Environment Variables!"
