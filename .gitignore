@@ -1,0 +1,4 @@
+.venv
+.temp_vars
+.DS_Store
+__pycache__
